@@ -12,30 +12,31 @@ Optimize routes based on user preferences such as avoiding toll roads, minimizin
 
 Key Features:
 
-Graph Representation: Utilizes a graph data structure to represent the transportation network.
+1. Graph Representation: Utilizes a graph data structure to represent the transportation network.
 Dijkstra's Algorithm: Finds the shortest path between two locations using Dijkstra's algorithm, considering edge weights (distance or time).
-Real-Time Traffic Updates: Integrates with a traffic API to provide real-time traffic information and suggest optimal routes.
-User Preferences: Allows users to specify preferences such as avoiding toll roads, choosing fastest routes, or selecting scenic routes.
-Interactive Interface: Provides a user-friendly interface for inputting locations, viewing routes, and receiving recommendations.
+2. Real-Time Traffic Updates: Integrates with a traffic API to provide real-time traffic information and suggest optimal routes.
+3. User Preferences: Allows users to specify preferences such as avoiding toll roads, choosing fastest routes, or selecting scenic routes.
+4. Interactive Interface: Provides a user-friendly interface for inputting locations, viewing routes, and receiving recommendations.
 Components
-Graph Module: Manages the graph structure, including nodes (locations/stations) and edges (connections/routes).
-Dijkstra Module: Implements Dijkstra's algorithm for finding the shortest path between two nodes based on edge weights.
-User Interface: Provides a command-line or GUI interface for users to interact with the system, input preferences, and view routes.
+5. Graph Module: Manages the graph structure, including nodes (locations/stations) and edges (connections/routes).
+6. Dijkstra Module: Implements Dijkstra's algorithm for finding the shortest path between two nodes based on edge weights.
+7. User Interface: Provides a command-line interface for users to interact with the system, input preferences, and view routes.
 
 Technologies Used:
 
-Java Programming Language
-Graph Data Structures
-Dijkstra's Algorithm Implementation
-
-Command-Line or Graphical User Interface (GUI) Development
+-Data Structures : Graph, Priority Queue, HashMap, ArrayList
+-Java Programming Language
+-Algorithms : Dijkstra's Algorithm Implementation
+-Command-Line Interface
 
 Getting Started
 Clone the Repository:
+
+https://github.com/tejaswini1304/DSA-Craft-Matrix-2x2
 
 
 Acknowledgments:
 
 This project was developed as part of the DSA Craft Competition.
 Special thanks to the competition organizers and mentors for their support.
-Inspiration drawn from real-world route planning applications and traffic management systems.
+Inspiration drawn from real-world optimal route planning applications and traffic management systems.
