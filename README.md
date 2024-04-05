@@ -37,6 +37,6 @@ https://github.com/tejaswini1304/DSA-Craft-Matrix-2x2
 
 Acknowledgments:
 
-This project was developed as part of the DSA Craft Competition.
-Special thanks to the competition organizers and mentors for their support.
-Inspiration drawn from real-world optimal route planning applications and traffic management systems.
+- This project was developed as part of the DSA Craft Competition.
+- Special thanks to the competition organizers and mentors for their support.
+- Inspiration drawn from real-world optimal route planning applications and traffic management systems.
