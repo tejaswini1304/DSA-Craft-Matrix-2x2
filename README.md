@@ -25,9 +25,9 @@ Components
 Technologies Used:
 
 - Data Structures : Graph, Priority Queue, HashMap, ArrayList
--Java Programming Language
--Algorithms : Dijkstra's Algorithm Implementation
--Command-Line Interface
+- Java Programming Language
+- Algorithms : Dijkstra's Algorithm Implementation
+- Command-Line Interface
 
 Getting Started
 Clone the Repository:
